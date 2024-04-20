@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falcon-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="falcon-jpg" /> </p>
 
-![]<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+![]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN5c3RkMTR1bGlwZWM1b2Q4eW83bjh1d3Vhc3IyZzBldTNod2NwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
 
 - 🌱 I’m currently learning **Asynchronism in Android.**
 
