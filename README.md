@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Chandra</h1>
 <h3 align="center">A passionate Native Android Developer as well budding Java Backend developer.</h3>
 
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d2bzBmY2piMm1vNXRoZnFuZjRqd3QyMHJmeWI0OW1oOTVybjZwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="coding gif" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falcon-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="falcon-jpg" /> </p>
 
 - 🌱 I’m currently learning **MVMM in android and AWS IoT.**
