@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yuvrajchandra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vgAwdNsGY_HJ65stKN95UnFp75uuDiLi/view?usp=drive_link](https://drive.google.com/file/d/1vgAwdNsGY_HJ65stKN95UnFp75uuDiLi/view?usp=drive_link)
+- 📄 Know about my experiences [https://shorturl.at/MOoeZ](https://shorturl.at/MOoeZ)
 
 - ⚡ Fun fact **I always try to be funny.**
 
